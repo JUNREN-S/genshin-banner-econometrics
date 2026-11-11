@@ -1,0 +1,14 @@
+# 运行产物 / Generated output
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# 本地工作文件 / Local work files
+*.numbers
+*.docx

@@ -1,0 +1,87 @@
+﻿rank,banner_id,banner_name,character,character_en,revenue,pool_type,ratio,total_revenue
+1,300029,Ayaka (Rerun),Ayaka,kamisato_ayaka,35939066.0,单角色池,1.0,35939066
+2,300018,Raiden Shogun,Raiden Shogun,raiden_shogun,33020905.0,单角色池,1.0,33020905
+3,300038,Nahida & Yoimiya (2nd Rerun),Nahida,nahida,31470315.39,双角色池,0.9251270571965896,34017290
+4,300041,Shougun & Ayato (2nd & 1st Rerun),Raiden Shogun,raiden_shogun,30382827.52,双角色池,0.8012532861034557,37919130
+5,300043,Hu Tao & Yelan (2nd & 1st Rerun),Yelan,yelan,27707865.19,双角色池,0.5951493713665998,46556153
+6,300056,Furina & Baizhu (1st Rerun),Furina,furina,27417266.03,双角色池,0.9378514010741484,29234126
+7,300027,Shougun & Kokomi (Rerun),Raiden Shogun,raiden_shogun,26485099.51,双角色池,0.7891804265619806,33560259
+8,300021,Hu Tao (Rerun),Hu Tao,hu_tao,25226952.0,单角色池,1.0,25226952
+9,300040,Wanderer & Itto (2nd Rerun),Wanderer,wanderer,24335018.19,双角色池,0.8970937533637113,27126505
+10,300030,Yelan & Xiao (2nd Rerun),Yelan,yelan,23302395.61,双角色池,0.7241909228545084,32177144
+11,300032,Kazuha & Klee (1st & 2nd Rerun),Kaedehara Kazuha,kaedehara_kazuha,21607988.06,双角色池,0.8709920532282088,24808479
+12,300046,Nahida & Nilou (1st Rerun),Nahida,nahida,20086491.14,双角色池,0.7168822109227256,28019235
+13,300045,Ayaka & Shenhe (2nd & 1st Rerun),Shenhe,shenhe,19452567.93,双角色池,0.5409197194076384,35962024
+14,300043,Hu Tao & Yelan (2nd & 1st Rerun),Hu Tao,hu_tao,18848287.81,双角色池,0.4048506286334001,46556153
+15,300045,Ayaka & Shenhe (2nd & 1st Rerun),Kamisato Ayaka,kamisato_ayaka,16509456.07,双角色池,0.4590802805923616,35962024
+16,300016,Ayaka,Ayaka,kamisato_ayaka,16451006.0,单角色池,1.0,16451006
+17,300060,Xianyun & Nahida (2nd Rerun),Xianyun,xianyun,15667219.74,双角色池,0.6103293034114855,25670109
+18,300058,Navia & Ayaka (3rd Rerun),Navia,navia,15233483.84,双角色池,0.8338069567762708,18269797
+19,300026,Yae Miko,Yae Miko,yae_miko,15110264.0,单角色池,1.0,15110264
+20,300059,Shougun & Yoimiya (3rd & 4th Rerun),Raiden Shogun,raiden_shogun,14901546.4,双角色池,0.8721579249774276,17085835
+21,300025,Zhongli & Ganyu (2nd & 1st Rerun),Zhongli,zhongli,14815238.55,双角色池,0.5532141034857695,26780298
+22,300028,Ayato & Venti (2nd Rerun),Kamisato Ayato,kamisato_ayato,14481795.97,双角色池,0.6360744303368566,22767455
+23,300033,Yoimiya (Rerun),Yoimiya,yoimiya,14333266.0,单角色池,1.0,14333266
+24,300042,Alhaitham & Xiao (3rd Rerun),Alhaitham,alhaitham,14065840.93,双角色池,0.7660357356059202,18361860
+25,300036,Cyno & Venti (3rd Rerun),Cyno,cyno,13652923.26,双角色池,0.7166127846818241,19052023
+26,300023,Itto,Itto,arataki_itto,13404072.0,单角色池,1.0,13404072
+27,300049,Alhaitham & Kazuha (1st & 2nd Rerun),Kaedehara Kazuha,kaedehara_kazuha,12656299.71,双角色池,0.7248769702588974,17459928
+28,300013,Eula,Eula,eula,12619390.0,单角色池,1.0,12619390
+29,300031,Itto (Rerun),Itto,arataki_itto,12586764.0,单角色池,1.0,12586764
+30,300025,Zhongli & Ganyu (2nd & 1st Rerun),Ganyu,ganyu,11965059.45,双角色池,0.4467858965142304,26780298
+31,300037,Nilou & Albedo (2nd Rerun),Nilou,nilou,11805443.81,双角色池,0.7504248630996679,15731680
+32,300039,Tartaglia & Yae Miko (3rd & 1st Rerun),Yae Miko,yae_miko,11419971.14,双角色池,0.6193913222290767,18437409
+33,300034,Tighnari & Zhongli (3rd Rerun),Zhongli,zhongli,11314284.43,双角色池,0.5933534560211591,19068372
+34,300054,Neuvillette & Hu Tao (3rd Rerun),Neuvillette,neuvillette,10484160.37,双角色池,0.757938304117631,13832472
+35,300012,Zhongli (Rerun),Zhongli,zhongli,10215165.0,单角色池,1.0,10215165
+36,300024,Shenhe & Xiao (Rerun),Xiao,xiao,10168591.8,双角色池,0.5983493506907103,16994406
+37,300060,Xianyun & Nahida (2nd Rerun),Nahida,nahida,10002889.26,双角色池,0.3896706965885145,25670109
+38,300015,Kazuha,Kazuha,kaedehara_kazuha,9807112.0,单角色池,1.0,9807112
+39,300055,Wriothesley & Venti (4th Rerun),Wriothesley,wriothesley,9546414.28,双角色池,0.813842937496889,11730045
+40,300030,Yelan & Xiao (2nd Rerun),Xiao,xiao,8874748.39,双角色池,0.2758090771454916,32177144
+41,300022,Albedo & Eula (Rerun),Albedo,albedo,8844522.77,双角色池,0.5194695457016302,17026066
+42,300035,Ganyu & Kokomi (2nd Rerun),Ganyu,ganyu,8649236.45,双角色池,0.5515447451284625,15681840
+43,300017,Yoimiya,Yoimiya,yoimiya,8615144.0,单角色池,1.0,8615144
+44,300044,Dehya & Cyno (1st Rerun),Dehya,dehya,8298826.66,双角色池,0.6287920693283008,13198046
+45,300028,Ayato & Venti (2nd Rerun),Venti,venti,8285659.03,双角色池,0.3639255696631434,22767455
+46,300022,Albedo & Eula (Rerun),Eula,eula,8181543.23,双角色池,0.4805304542983697,17026066
+47,300046,Nahida & Nilou (1st Rerun),Nilou,nilou,7932743.86,双角色池,0.2831177890772743,28019235
+48,300011,Tartaglia (2nd Rerun),Tartaglia,tartaglia,7785438.0,单角色池,1.0,7785438
+49,300034,Tighnari & Zhongli (3rd Rerun),Tighnari,tighnari,7754087.57,双角色池,0.4066465439788408,19068372
+50,300041,Shougun & Ayato (2nd & 1st Rerun),Kamisato Ayato,kamisato_ayato,7536302.48,双角色池,0.1987467138965443,37919130
+51,300027,Shougun & Kokomi (Rerun),Sangonomiya Kokomi,sangonomiya_kokomi,7075159.49,双角色池,0.2108195734380193,33560259
+52,300035,Ganyu & Kokomi (2nd Rerun),Sangonomiya Kokomi,sangonomiya_kokomi,7032603.55,双角色池,0.4484552548715374,15681840
+53,300019,Kokomi,Kokomi,sangonomiya_kokomi,7020975.0,单角色池,1.0,7020975
+54,300039,Tartaglia & Yae Miko (3rd & 1st Rerun),Tartaglia,tartaglia,7017437.86,双角色池,0.3806086777709233,18437409
+55,300014,Klee (Rerun),Klee,klee,7006180.0,单角色池,1.0,7006180
+56,300020,Tartaglia (Rerun),Tartaglia,tartaglia,6965445.0,单角色池,1.0,6965445
+57,300053,Zhongli & Tartaglia (4th Rerun),Zhongli,zhongli,6846794.4,双角色池,0.7574208514111431,9039617
+58,300024,Shenhe & Xiao (Rerun),Shenhe,shenhe,6825814.2,双角色池,0.4016506493092897,16994406
+59,300052,Lyney & Yelan (2nd Rerun),Yelan,yelan,6430897.27,双角色池,0.5604981399147083,11473539
+60,300047,Baizhu & Ganyu (3rd Rerun),Baizhu,baizhu,6035162.63,双角色池,0.662579965859962,9108580
+61,300057,Cyno & Ayato (2nd Rerun),Kamisato Ayato,kamisato_ayato,5873887.26,双角色池,0.7080382277527747,8296003
+62,300048,Yoimiya & Yae Miko (3rd & 2nd Rerun),Yae Miko,yae_miko,5594421.73,双角色池,0.6111324920496668,9154188
+63,300036,Cyno & Venti (3rd Rerun),Venti,venti,5399099.74,双角色池,0.2833872153181759,19052023
+64,300052,Lyney & Yelan (2nd Rerun),Lyney,lyney,5042641.73,双角色池,0.4395018600852917,11473539
+65,300044,Dehya & Cyno (1st Rerun),Cyno,cyno,4899219.34,双角色池,0.3712079306716992,13198046
+66,300049,Alhaitham & Kazuha (1st & 2nd Rerun),Alhaitham,alhaitham,4803628.29,双角色池,0.2751230297411026,17459928
+67,300051,Kokomi & Wanderer (3rd & 1st Rerun),Wanderer,wanderer,4613496.22,双角色池,0.5053321672395441,9129631
+68,300050,Eula & Klee (2nd & 3rd Rerun),Eula,eula,4591340.38,双角色池,0.710933217759309,6458188
+69,300051,Kokomi & Wanderer (3rd & 1st Rerun),Sangonomiya Kokomi,sangonomiya_kokomi,4516134.78,双角色池,0.4946678327604558,9129631
+70,300042,Alhaitham & Xiao (3rd Rerun),Xiao,xiao,4296019.07,双角色池,0.2339642643940797,18361860
+71,300037,Nilou & Albedo (2nd Rerun),Albedo,albedo,3926236.19,双角色池,0.2495751369003321,15731680
+72,300048,Yoimiya & Yae Miko (3rd & 2nd Rerun),Yoimiya,yoimiya,3559766.27,双角色池,0.3888675079503332,9154188
+73,300054,Neuvillette & Hu Tao (3rd Rerun),Hu Tao,hu_tao,3348311.63,双角色池,0.2420616958823691,13832472
+74,300032,Kazuha & Klee (1st & 2nd Rerun),Klee,klee,3200490.94,双角色池,0.1290079467717912,24808479
+75,300047,Baizhu & Ganyu (3rd Rerun),Ganyu,ganyu,3073417.37,双角色池,0.3374200341400379,9108580
+76,300058,Navia & Ayaka (3rd Rerun),Kamisato Ayaka,kamisato_ayaka,3036313.16,双角色池,0.1661930432237291,18269797
+77,300040,Wanderer & Itto (2nd Rerun),Arataki Itto,arataki_itto,2791486.81,双角色池,0.1029062466362886,27126505
+78,300061,Yae Miko & Xiao (3rd & 4th Rerun),Yae Miko,yae_miko,2691860.27,双角色池,0.5110720182707591,5267086
+79,300061,Yae Miko & Xiao (3rd & 4th Rerun),Xiao,xiao,2575225.73,双角色池,0.4889279817292409,5267086
+80,300038,Nahida & Yoimiya (2nd Rerun),Yoimiya,yoimiya,2546974.61,双角色池,0.0748729428034104,34017290
+81,300057,Cyno & Ayato (2nd Rerun),Cyno,cyno,2422115.74,双角色池,0.2919617722472252,8296003
+82,300053,Zhongli & Tartaglia (4th Rerun),Tartaglia,tartaglia,2192822.6,双角色池,0.2425791485888569,9039617
+83,300059,Shougun & Yoimiya (3rd & 4th Rerun),Yoimiya,yoimiya,2184288.6,双角色池,0.1278420750225724,17085835
+84,300055,Wriothesley & Venti (4th Rerun),Venti,venti,2183630.72,双角色池,0.186157062503111,11730045
+85,300050,Eula & Klee (2nd & 3rd Rerun),Klee,klee,1866847.62,双角色池,0.289066782240691,6458188
+86,300056,Furina & Baizhu (1st Rerun),Baizhu,baizhu,1816859.97,双角色池,0.0621485989258515,29234126

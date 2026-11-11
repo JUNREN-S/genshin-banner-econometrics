@@ -1,0 +1,72 @@
+﻿banner_id,banner_name,char_a_en,char_b_en,char_a,char_b,count_a,count_b,ratio_a,ratio_b
+300022,Albedo & Eula (Rerun),albedo,eula,Albedo,Eula,193038,178568,0.5194695457016302,0.48053045429836977
+300024,Shenhe & Xiao (Rerun),shenhe,xiao,Shenhe,Xiao,163955,244248,0.40165064930928973,0.5983493506907103
+300025,Zhongli & Ganyu (2nd & 1st Rerun),ganyu,zhongli,Ganyu,Zhongli,274075,339362,0.44678589651423045,0.5532141034857695
+300027,Shougun & Kokomi (Rerun),raiden_shogun,sangonomiya_kokomi,Raiden Shogun,Sangonomiya Kokomi,251687,67235,0.7891804265619806,0.21081957343801933
+300028,Ayato & Venti (2nd Rerun),kamisato_ayato,venti,Kamisato Ayato,Venti,270324,154664,0.6360744303368566,0.36392556966314343
+300030,Yelan & Xiao (2nd Rerun),yelan,xiao,Yelan,Xiao,254472,96916,0.7241909228545084,0.2758090771454916
+300032,Kazuha & Klee (1st & 2nd Rerun),kaedehara_kazuha,klee,Kaedehara Kazuha,Klee,390626,57858,0.8709920532282088,0.1290079467717912
+300034,Tighnari & Zhongli (3rd Rerun),tighnari,zhongli,Tighnari,Zhongli,80564,117554,0.40664654397884087,0.5933534560211591
+300035,Ganyu & Kokomi (2nd Rerun),ganyu,sangonomiya_kokomi,Ganyu,Sangonomiya Kokomi,84602,68789,0.5515447451284625,0.4484552548715374
+300036,Cyno & Venti (3rd Rerun),cyno,venti,Cyno,Venti,149178,58993,0.7166127846818241,0.2833872153181759
+300037,Nilou & Albedo (2nd Rerun),nilou,albedo,Nilou,Albedo,135120,44938,0.7504248630996679,0.24957513690033212
+300038,Nahida & Yoimiya (2nd Rerun),nahida,yoimiya,Nahida,Yoimiya,343854,27829,0.9251270571965896,0.07487294280341043
+300039,Tartaglia & Yae Miko (3rd & 1st Rerun),yae_miko,tartaglia,Yae Miko,Tartaglia,90363,55527,0.6193913222290767,0.3806086777709233
+300040,Wanderer & Itto (2nd Rerun),wanderer,arataki_itto,Wanderer,Arataki Itto,250029,28681,0.8970937533637113,0.10290624663628861
+300041,Shougun & Ayato (2nd & 1st Rerun),raiden_shogun,kamisato_ayato,Raiden Shogun,Kamisato Ayato,201770,50048,0.8012532861034557,0.19874671389654433
+300042,Alhaitham & Xiao (3rd Rerun),alhaitham,xiao,Alhaitham,Xiao,148853,45463,0.7660357356059202,0.23396426439407975
+300043,Hu Tao & Yelan (2nd & 1st Rerun),hu_tao,yelan,Hu Tao,Yelan,128417,188779,0.40485062863340016,0.5951493713665998
+300044,Dehya & Cyno (1st Rerun),dehya,cyno,Dehya,Cyno,57974,34225,0.6287920693283008,0.37120793067169927
+300045,Ayaka & Shenhe (2nd & 1st Rerun),shenhe,kamisato_ayaka,Shenhe,Kamisato Ayaka,108264,91884,0.5409197194076384,0.45908028059236167
+300046,Nahida & Nilou (1st Rerun),nahida,nilou,Nahida,Nilou,131540,51949,0.7168822109227256,0.28311778907727436
+300047,Baizhu & Ganyu (3rd Rerun),baizhu,ganyu,Baizhu,Ganyu,83065,42301,0.662579965859962,0.33742003414003796
+300048,Yoimiya & Yae Miko (3rd & 2nd Rerun),yoimiya,yae_miko,Yoimiya,Yae Miko,38396,60342,0.3888675079503332,0.6111324920496668
+300049,Alhaitham & Kazuha (1st & 2nd Rerun),alhaitham,kaedehara_kazuha,Alhaitham,Kaedehara Kazuha,46290,121962,0.27512302974110264,0.7248769702588974
+300050,Eula & Klee (2nd & 3rd Rerun),eula,klee,Eula,Klee,55772,22677,0.710933217759309,0.289066782240691
+300051,Kokomi & Wanderer (3rd & 1st Rerun),sangonomiya_kokomi,wanderer,Sangonomiya Kokomi,Wanderer,72964,74537,0.49466783276045584,0.5053321672395441
+300052,Lyney & Yelan (2nd Rerun),lyney,yelan,Lyney,Yelan,77500,98836,0.43950186008529174,0.5604981399147083
+300053,Zhongli & Tartaglia (4th Rerun),tartaglia,zhongli,Tartaglia,Zhongli,28235,88160,0.2425791485888569,0.7574208514111431
+300054,Neuvillette & Hu Tao (3rd Rerun),neuvillette,hu_tao,Neuvillette,Hu Tao,221033,70591,0.757938304117631,0.2420616958823691
+300055,Wriothesley & Venti (4th Rerun),wriothesley,venti,Wriothesley,Venti,98099,22439,0.813842937496889,0.18615706250311106
+300056,Furina & Baizhu (1st Rerun),furina,baizhu,Furina,Baizhu,372644,24694,0.9378514010741484,0.06214859892585154
+300057,Cyno & Ayato (2nd Rerun),cyno,kamisato_ayato,Cyno,Kamisato Ayato,16283,39488,0.29196177224722525,0.7080382277527747
+300058,Navia & Ayaka (3rd Rerun),navia,kamisato_ayaka,Navia,Kamisato Ayaka,136731,27253,0.8338069567762708,0.16619304322372913
+300059,Shougun & Yoimiya (3rd & 4th Rerun),raiden_shogun,yoimiya,Raiden Shogun,Yoimiya,127506,18690,0.8721579249774276,0.12784207502257244
+300060,Xianyun & Nahida (2nd Rerun),xianyun,nahida,Xianyun,Nahida,142211,90796,0.6103293034114855,0.3896706965885145
+300061,Yae Miko & Xiao (3rd & 4th Rerun),xiao,yae_miko,Xiao,Yae Miko,31684,33119,0.48892798172924096,0.5110720182707591
+300063,Neuvillette & Kazuha (1st & 2nd Rerun),neuvillette,kaedehara_kazuha,Neuvillette,Kaedehara Kazuha,90764,53741,0.6281028338119788,0.37189716618802116
+300064,Arlecchino & Lyney (1st Rerun),arlecchino,lyney,Arlecchino,Lyney,261616,11775,0.9569298184651287,0.0430701815348713
+300065,Wanderer & Baizhu (2nd Rerun),wanderer,baizhu,Wanderer,Baizhu,32209,16953,0.6551604898092023,0.3448395101907978
+300066,Clorinde & Alhaitham (1st Rerun),clorinde,alhaitham,Clorinde,Alhaitham,121187,32699,0.7875115345125613,0.21248846548743874
+300067,Sigewinne & Furina (1st Rerun),sigewinne,furina,Sigewinne,Furina,29671,131193,0.1844477322458723,0.8155522677541277
+300068,Navia & Nilou (1st & 2nd Rerun),navia,nilou,Navia,Nilou,57513,34685,0.6237987808846179,0.3762012191153821
+300069,Emilie & Yelan (1st Rerun),emilie,yelan,Emilie,Yelan,46028,61975,0.4261733470366564,0.5738266529633436
+300070,Mualani & Kazuha (1st Rerun),mualani,kaedehara_kazuha,Mualani,Kaedehara Kazuha,143297,73008,0.6624765955479531,0.33752340445204687
+300071,Kinich & Raiden (1st Rerun),kinich,raiden_shogun,Kinich,Raiden Shogun,123126,77584,0.6134522445319117,0.3865477554680883
+300072,Xilonen & Chiori (1st Rerun),xilonen,chiori,Xilonen,Chiori,196857,23347,0.8939755862745454,0.10602441372545458
+300073,Nahida & Hu Tao (2nd & 3rd Rerun),nahida,hu_tao,Nahida,Hu Tao,71510,31570,0.693733022894839,0.30626697710516104
+300074,Chasca & Lyney (1st Rerun),chasca,lyney,Chasca,Lyney,109105,16803,0.8665454141118912,0.13345458588810877
+300075,Neuvillette & Zhongli (1st Rerun),neuvillette,zhongli,Neuvillette,Zhongli,99472,46236,0.6826804293518544,0.3173195706481456
+300076,Mavuika & Citlali (New),mavuika,citlali,Mavuika,Citlali,248360,148036,0.6265451719997175,0.37345482800028257
+300077,Arlecchino & Clorinde (1st Rerun),arlecchino,clorinde,Arlecchino,Clorinde,110841,38786,0.7407820781008775,0.25921792189912246
+300078,Mizuki & Sigewinne (1st Rerun),yumemizuki_mizuki,sigewinne,Yumemizuki Mizuki,Sigewinne,16854,8671,0.6602938295788443,0.33970617042115575
+300079,Wriothesley & Furina (1st Rerun),wriothesley,furina,Wriothesley,Furina,46540,125418,0.2706474836878773,0.7293525163121227
+300080,Varesa & Xianyun (1st Rerun),varesa,xianyun,Varesa,Xianyun,82377,34840,0.7027734884871648,0.2972265115128352
+300081,Xilonen & Venti (1st Rerun),xilonen,venti,Xilonen,Venti,78441,12949,0.8583105372579056,0.14168946274209432
+300082,Escoffier & Navia (1st Rerun),escoffier,navia,Escoffier,Navia,121147,23652,0.83665633049952,0.16334366950048
+300083,Kinich & Raiden (1st Rerun),kinich,raiden_shogun,Kinich,Raiden Shogun,20496,15762,0.5652821446301506,0.4347178553698494
+300084,Skirk & Shenhe (New),skirk,shenhe,Skirk,Shenhe,202077,13813,0.9360183426745101,0.06398165732548983
+300085,Mavuika & Emilie (1st Rerun),mavuika,emilie,Mavuika,Emilie,61527,15256,0.80131018584843,0.19868981415157
+300086,Ineffa & Citlali (New),ineffa,citlali,Ineffa,Citlali,63141,72487,0.46554546258884594,0.534454537411154
+300087,Mualani & Chasca (1st Rerun),mualani,chasca,Mualani,Chasca,21489,29404,0.42223881476823927,0.5777611852317608
+300088,Lauma & Nahida (New),lauma,nahida,Lauma,Nahida,141946,15416,0.9020347987442966,0.0979652012557034
+300089,Flins & Yelan (New),flins,yelan,Flins,Yelan,191452,36324,0.8405275358246699,0.15947246417533015
+300090,Nefer & Furina (New),nefer,furina,Nefer,Furina,123254,68803,0.6417573949400438,0.35824260505995614
+300091,Arlecchino & Zhongli (1st Rerun),arlecchino,zhongli,Arlecchino,Zhongli,51379,9725,0.8408451165226499,0.1591548834773501
+300092,Durin & Venti (New),durin,venti,Durin,Venti,150351,16181,0.9028354910767901,0.09716450892320995
+300093,Varesa & Xilonen (1st Rerun),varesa,xilonen,Varesa,Xilonen,42470,47078,0.4742707821503551,0.5257292178496449
+300094,Columbina & Ineffa (New),columbina,ineffa,Columbina,Ineffa,306934,95573,0.7625556822614266,0.2374443177385735
+300095,Zibai & Neuvillette (New),zibai,neuvillette,Zibai,Neuvillette,111805,31613,0.779574390941165,0.22042560905883501
+300096,Varka & Flins (New),varka,flins,Varka,Flins,59850,46840,0.5609710375855281,0.4390289624144718
+300098,Linnea & Chasca (New),linnea,chasca,Linnea,Chasca,60688,7455,0.8905977136316277,0.10940228636837239
+300100,Nicole & Durin (New),nicole,durin,Nicole,Durin,29040,6633,0.8140610545790934,0.18593894542090658
